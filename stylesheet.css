@@ -54,6 +54,8 @@ li {
 .contents-item {
   float: left;
   margin-right: 40px;
+  width: 20%;
+  height: auto;
 }
 
 .contents-item p {
